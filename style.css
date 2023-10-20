@@ -20,3 +20,74 @@ html{
     font-family: 'Big Shoulders Display', cursive;
     /* font-family: 'Lexend Deca', sans-serif; */
 }
+
+.container{
+    width: 100%;
+    height: 100vh;
+}
+
+.container-card{
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    width: 90vw;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.container-card-item{
+    min-width: 200px;
+    max-width: 240px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 40px;
+}
+
+.item-sedans{
+    background-color: var(--Bright-orange);
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.item-suvs{
+    background-color: var(--Dark-cyan);
+}
+
+.item-luxury{
+    background-color: var(--Very-dark-cyan);
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.container-card-item__title{
+    color: var(--Very-light-gray);
+    font-size: 1.8rem;
+}
+
+.container-card-item__information{
+    color: var(--Transparent-white);
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+}
+
+.container-card-item__button{
+    font-size: 1.2rem;
+    border-radius: 20px;
+    border: none;
+    width: 110px;
+    height: 35px;;
+}
+
+.button-sedans{
+    color: var(--Bright-orange)
+}
+
+.button-suvs{
+    color: var(--Dark-cyan);
+}
+
+.button-luxury{
+    color: var(--Very-dark-cyan);
+}
