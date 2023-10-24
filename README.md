@@ -17,7 +17,7 @@ Users should be able to:
 ![enter image description here](https://firebasestorage.googleapis.com/v0/b/mitiendaonline-cf32a.appspot.com/o/Captura2.PNG?alt=media&token=38089ec1-eab0-4df6-a694-4c6dbcd9e4f6&_gl=1*12edbmn*_ga*MzAzMDQ4MjIwLjE2NzczNjAyNDI.*_ga_CW55HF8NVT*MTY5ODExMjgxMS4zLjEuMTY5ODExMjg1Ny4xNC4wLjA.)
 
 ### Links
-- Live Site URL: [Solution]()
+- Live Site URL: [Solution](https://yaho59.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
